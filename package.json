@@ -1,0 +1,15 @@
+{
+  "name": "simple-node-interpreter",
+  "version": "1.0.0",
+  "description": "A Javascript(Node) implementation of 'Let's build a Simple Interpreter' from Ruslan Spivak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AndreM-Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
